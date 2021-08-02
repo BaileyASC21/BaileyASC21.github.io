@@ -1,0 +1,28 @@
+
+img{
+    width: 14%;
+    height: 14%;
+}
+
+body{
+    background-color: black;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.items{
+    color: white;
+    font-family: Helvetica;
+    font-size: 15px;
+
+}
+
+.items:hover{
+    border: 1px solid white;
+    padding: 5px;
+}
